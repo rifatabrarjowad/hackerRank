@@ -1,2 +1,2 @@
 # hackerRankPy
-![Optional Text](./img/py_basic.png)
+![Optional Text](./skill_test/img/py_basic.png)
